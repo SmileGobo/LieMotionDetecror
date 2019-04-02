@@ -1,0 +1,6 @@
+*.o
+/Makefile
+moc_*.cpp
+*.scc
+*.pro.user*
+/MotionDetector
